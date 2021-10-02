@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @arazybbat
 - 👀 I’m interested in creating apps
 - 🌱 I’m currently learning Python
+- 🐈 I'm a cat person
